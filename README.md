@@ -13,7 +13,7 @@ You need to have node.js and npm installed.
 Installation
 ------------
 
-Download PokerBot from github: `git clone https://github.com/omnidan/pokerbot`.
+Download PokerBot from github: `git clone https://github.com/manueligno78/pokerbot`.
 
 Install dependencies: Run `npm install` in the PokerBot directory.
 
@@ -29,7 +29,7 @@ the example below. More networks can be added. (Config is JSON format)
     "address": "localhost",
     "port": 6667,
     "channels": ["#lounge"],
-    "nick": "VoteServ",
+    "nick": "PokerBot",
     "admin": "dan",
     "nickserv": "[redcated]"
   },
