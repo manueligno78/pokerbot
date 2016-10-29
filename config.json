@@ -1,0 +1,13 @@
+{
+  "network": {
+    "address": "localhost",
+    "port": 6667,
+    "channels": ["#jira"],
+    "nick": "arbitro",
+    "admin": "arbitro",
+    "nickserv": "[nickserv]"
+  },
+  "administration": {
+    "admin": "admin"
+  }   
+}

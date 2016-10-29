@@ -1,0 +1,20 @@
+{
+  "name": "VoteServ",
+  "version": "0.2.0",
+  "author": "Daniel Bugl <daniel.bugl@touchlay.com>",
+  "description": "standalone irc vote bot written in node.js",
+  "contributors": [
+    {
+      "name": "Daniel Bugl",
+      "email": "daniel.bugl@touchlay.com"
+    }
+  ],
+  "dependencies": {
+    "coffea": "^0.1.3",
+    "log-simple": "^0.1.2"
+  },
+  "license": "BSD",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
