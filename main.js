@@ -1,7 +1,7 @@
 // VoteServ - standalone irc vote bot written in node.js
 var log = require('log-simple')({init: false});
 
-var VERSION = '0.2.1';
+var VERSION = '0.0.1';
 
 log.info('Planning Poker' + VERSION + ' starting...');
 log.info('Written by Emanuele Pintaldi');
